@@ -1,0 +1,10 @@
+/* section on left */
+
+
+/* section on right */
+.pic {
+    width: 2vw;
+    height: 5vh;
+    object-fit: cover;
+    border-radius: 50%;
+}
